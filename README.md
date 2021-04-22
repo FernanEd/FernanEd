@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernaned&label=Profile%20views&color=0e75b6&style=flat" alt="fernaned" /> </p>
 
-- 🌱 I’m currently learning **Typescript, MongoDB, GraphQL and Deployment.**
+- 🌱 I’m currently learning **Typescript, GraphQL and CI\CD.**
 
-- 👨‍💻 All of my projects are available at [https://fernaned.github.io/](https://fernaned.github.io/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://fernaned.github.io/)
 
 <!-- - 📝 I regularly write articles on [eee](eee) -->
 
