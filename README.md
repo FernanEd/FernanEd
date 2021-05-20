@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **GraphQL, Gatsby and Deployment**.
 
-- 👨‍💻 All of my projects are available at [https://fernaned.github.io/](https://fernaned.github.io/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://fernaned.github.io/)
 
 <!-- - 📝 I regularly write articles on [eee](eee) -->
 
